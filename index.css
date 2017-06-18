@@ -1,0 +1,31 @@
+body {
+    background: grey;
+    margin: 0;
+    padding 0;
+    background-color: #2F3945;
+    width: 100%;
+}
+
+div.calc {
+    position: fixed; 
+    left: 0; 
+    right: 0;
+    top: 100px;
+    margin-left: auto; 
+    margin-right: auto; 
+    width: 300px; 
+    height: 400px;
+    font-size: 0;
+}
+input {
+    width: 50px;
+    height: 50px;
+    margin: 0px auto;
+    border: 2px solid white;
+}
+#display {
+    width: 197px;
+}
+.clear {
+    width: 100px;
+}
